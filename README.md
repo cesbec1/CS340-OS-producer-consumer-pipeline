@@ -12,3 +12,7 @@ The flow of this program
 -Thread2(consumer/producer) begins to consume the lines in the global buffer to start reading a word a time to be stored into another global buffer for thread3 to consume.
 
 -Thread3's(consumer) only function is to consume the words that were read and stored by thread2 and print them out to the console
+
+Sample output
+
+![Screenshot 2022-01-25 003255](https://user-images.githubusercontent.com/76544232/150917163-620ada62-9ace-4a7b-8664-5f281ed520a5.png)

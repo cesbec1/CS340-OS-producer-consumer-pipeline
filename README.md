@@ -1,4 +1,4 @@
-# producer-consumer-piepeline
+# producer-consumer-pipeline
 A producer consumer problem in C
 
 This program is a solution to creating a pipeline with threads in C. Each thread is either a consumer,producer or both and the main task of this application is to read a text file and return some statistics to the console. In order for this program to be successful thread synchronization needed to take place and with some techniques such as mutex or thread scheduling synchronization is achieved. 

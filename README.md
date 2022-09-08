@@ -13,6 +13,7 @@ The flow of this program
 
 -Thread3's(consumer) only function is to consume the words that were read and stored by thread2 and print them out to the console
 
-Sample output
+Sample output that was produced 
+
 
 ![Screenshot 2022-01-25 003255](https://user-images.githubusercontent.com/76544232/150917163-620ada62-9ace-4a7b-8664-5f281ed520a5.png)
